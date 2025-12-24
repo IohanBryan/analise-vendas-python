@@ -20,7 +20,7 @@ O projeto simula um cenário real de negócio, onde dados brutos em Excel são t
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Python 3**
+* **Python**
 * **Pandas** (manipulação e análise de dados)
 * **Matplotlib** (visualização de dados)
 * **Excel (.xlsx)** como fonte de dados
